@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ clickAyam()
+comment2.params=
+comment2.target=void\ clickBeer()
+comment3.params=
+comment3.target=void\ clickPizza()
+comment4.params=
+comment4.target=void\ clickIce()
+comment5.params=
+comment5.target=void\ clickBakso()
+comment6.params=
+comment6.target=void\ clickCocacola()
+comment7.params=
+comment7.target=void\ clickReset()
+numComments=8
